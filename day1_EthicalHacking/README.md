@@ -8,3 +8,4 @@
 - Kali = attacker system  
 - Lab ensures safe hacking environment  
 - Linux terminal is key to control tools
+- Added terminal practice screenshot for Day 1
