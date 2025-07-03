@@ -2,7 +2,6 @@
 
 ✅ Completed Zaid Section 3  
 ✅ Practiced essential Linux commands  
-📸 Screenshot: day2_linux_terminal.png
 
 🧠 Learned:
 - File creation & viewing (touch, echo, cat)
